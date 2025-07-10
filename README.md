@@ -9,7 +9,7 @@ If no one guesses correctly, all players lose.
 
 Concepts that have been used are:
 
-Classes and Objects
-Scanner for input
-Conditional statements (if-else)
+Classes and Objects,
+Scanner for input,
+Conditional statements (if-else),
 Boolean flags for comparison
